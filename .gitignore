@@ -1,6 +1,3 @@
 *.env
-<<<<<<< HEAD
 *db.py
-=======
->>>>>>> fa71627d1885cbdb8ab87150774e2fb147bbd0cc
-*requirements.txt
+*requeriments.txt
