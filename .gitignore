@@ -1,2 +1,4 @@
 
 *db.py
+*.env
+*requirements.txt
